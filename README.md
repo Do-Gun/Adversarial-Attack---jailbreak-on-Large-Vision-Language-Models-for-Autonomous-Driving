@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b6ffd500-8cad-4465-9bfb-3813bab76ceb)# Project : Adversarial Attack(Jailbreak) on Large Vision Language Models for Autonomous Driving
+# Project : Adversarial Attack(Jailbreak) on Large Vision Language Models for Autonomous Driving
 
 This document provides a summary of the final project by TEAM DODONG from the University of Seoul, focusing on adversarial attacks against Large Vision-Language Models (LVLMs) in the context of autonomous driving.
 
