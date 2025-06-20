@@ -100,8 +100,28 @@ This prompt successfully tricked the model by:
 ### Results
 The attack was successful in causing the vehicle to perform dangerous actions.
 
+"Quantitatively, successful attacks resulted in an average decrease of about 30% in Route Completion (RC) compared to the baseline. Qualitatively, it was possible to induce the following major malfunction cases:"
+
 * **Case 1: Swerving:** The vehicle swerved aggressively and disregarded road boundaries, leading to a mission failure.
 * **Case 2: Ignoring Red Light:** The vehicle was made to perform a right turn at a red light, ignoring the traffic signal.
+* <table align="center">
+  <tr>
+    <td align="center"><strong>공격 성공 사례 1: Swerve 유도</strong></td>
+    <td align="center"><strong>공격 성공 사례 2: Ignore Red Light 유도</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/86e2c356-9e68-46f7-b950-b8c378aa48a8" width="400px" alt="스워브 공격 성공 GIF"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a85e91eb-fa72-432c-bb75-ac53b30eb0b5" width="400px" alt="신호 무시 공격 성공 GIF"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>도로 경계를 무시하고<br>좌우로 스워브하는 시나리오 </em></td>
+    <td align="center"><em>빨간불 신호를 무시하고<br>우회전하는 시나리오 </em></td>
+  </tr>
+</table>
 
 ---
 ## 5. Analysis and Limitations
