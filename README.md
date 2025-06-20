@@ -4,8 +4,8 @@ This document provides a summary of the final project by TEAM DODONG from the Un
 
 <table align="center">
   <tr>
-    <td align="center"><strong>공격 성공 사례 1: 스워브(Swerve) 유도</strong></td>
-    <td align="center"><strong>공격 성공 사례 2: 신호 무시(Ignore Red Light) 유도</strong></td>
+    <td align="center"><strong>공격 성공 사례 1: Swerve 유도</strong></td>
+    <td align="center"><strong>공격 성공 사례 2: Ignore Red Light 유도</strong></td>
   </tr>
   <tr>
     <td align="center">
